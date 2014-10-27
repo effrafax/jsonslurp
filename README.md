@@ -3,6 +3,8 @@ jsonslurp
 
 Test case for groovy jsonslurp error 
 
+http://jira.codehaus.org/browse/GROOVY-7132
+
 Running the tests:
 
     groovy scripts/test.groovy
